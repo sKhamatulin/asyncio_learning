@@ -1,9 +1,11 @@
 import socket
 from select import select
 
+
 tasks = []
 
 to_read = {}
+
 to_write = {}
 
 
