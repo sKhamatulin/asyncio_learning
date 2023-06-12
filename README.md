@@ -28,3 +28,7 @@
 ## LESSON 5
 
 пример алгоритма Дэвида Бизли (David Beazley), который он использовал в докладе на PyCon US 2015 "Python Concurrency From the Ground Up: LIVE!".
+
+## LESSON 6
+
+генераторы, декторатор куротин. Отношения делигирующего и подегенератора, сокразение yield from
