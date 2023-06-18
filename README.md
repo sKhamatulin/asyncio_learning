@@ -32,3 +32,11 @@
 ## LESSON 6
 
 генераторы, декторатор куротин. Отношения делигирующего и подегенератора, сокразение yield from
+
+## LESSON 7
+
+asyncio await
+
+## LESSON 8
+
+асинхронное скачивание картинок с [https://loremflickr.com/320/240](https://loremflickr.com/320/240)
